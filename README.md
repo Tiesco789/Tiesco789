@@ -6,9 +6,9 @@
 
 <br><br>
 
-<img align="center" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300" />
-<br><br>
-
+<p align="center">
+  <samp> 📫 Contact me via: <a href="franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a>.</samp>
+</p>
 <table align="center">
   <tbody>
     <tr>
