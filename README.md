@@ -1,6 +1,5 @@
-
-<samp>
-  <h1 align="center">F R A N C C E S C O  &nbsp  A N T O N I O</h1>
+<samp align="center">
+  <h1 align="center">F R A N C C E S C O  <br>  A N T O N I O</h1>
 </samp>
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
@@ -76,6 +75,4 @@
 <samp><h2 align="center"></h2></samp>
 <br>
 
-<p align="center" >
-  <img src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="150"/>
-</p>
+
