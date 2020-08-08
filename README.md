@@ -21,13 +21,38 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
       </td>
       <td width="25%" align="center">
-        <img
-          height="64px"
-          src="https://cdn.svgporn.com/logos/javascript.svg"
-        />
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg" />
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg" />
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg" />
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+      </td>
+      <td width="25%" align="center">
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg" />
       </td>
     </tr>
   </tbody>
