@@ -1,22 +1,29 @@
-<h1 align="center">Franccesco Antonio</h1>
+<p>
+  <h1 align="center">Franccesco Antonio</h1>
+</p>
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
-<p align="center">
-  <samp>
-    <table>
-      <tbody>
-        <td>Front-end :heart:</td>
-        <td> Web-Design 🖥</td>
-        <td>Games 🎮</td>
-        <td> Rock n' Roll 🤘</td>
-      </tbody>
-    </table>
-  </samp>
-</p>
-
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="25%" align="center">
+        <span>Front-end :heart:</span>
+      </td>
+      <td width="25%" align="center">
+        <span>Web-Design 🖥</span>
+      </td>
+      <td width="25%" align="center">
+        <span>Games 🎮</span>
+      </td>
+      <td width="25%" align="center">
+        <span>Rock n' Roll 🤘</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p><h3 align="center">Tech Stack 👨🏻‍💻</h3></p>
 
@@ -66,4 +73,3 @@
     </tr>
   </tbody>
 </table>
-
