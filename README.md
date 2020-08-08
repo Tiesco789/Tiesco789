@@ -4,6 +4,7 @@
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
+<br><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/franccesco-antonio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 <br><br>
