@@ -1,5 +1,5 @@
 <samp>
-  <h1 align="center">F R A N C C E S C O &nbsp A N T O N I O</h1>
+  <h1 align="center">F R A N C C E S C O  &nbsp  A N T O N I O</h1>
 </samp>
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
@@ -28,7 +28,7 @@
 </table>
 <br>
 
-<samp><h2 align="center">T E C H  &nbsp  S T A C K 👨🏻‍💻</h2></samp>
+<samp><h2 align="center">T E C H  S T A C K 👨🏻‍💻</h2></samp>
 <br>
 
 <table align="center">
