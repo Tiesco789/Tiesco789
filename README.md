@@ -5,12 +5,8 @@
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
 <br><br>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/franccesco-antonio/"><img height="60px" align="center" src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="mailto:franccesco_@hotmail.com"><img height="60px" align="center" src="https://img.shields.io/badge/-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a target="_blank" href="mailto:tiesco789@gmail.com"><img height="60px" align="center" src="https://img.shields.io/badge/-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
+<img align="center" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300" />
 <br><br>
 
 <table align="center">
