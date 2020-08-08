@@ -4,15 +4,10 @@
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
-<br><br>
-
 <p align="center">
   <samp> 📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a>.</samp>
 </p>
 
-<br><br>
-
-<h2 align="center">About Me</h2>
 <table align="center">
   <tbody>
     <tr>
