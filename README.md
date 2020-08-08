@@ -1,3 +1,7 @@
+
+<samp><h2></h2></samp>
+<br>
+
 <samp align="center">
   <h1 align="center">F R A N C C E S C O  <br>  A N T O N I O</h1>
 </samp>
@@ -72,7 +76,7 @@
   </tbody>
 </table>
 
-<samp><h2 align="center"></h2></samp>
+<samp><h2></h2></samp>
 <br>
 
 
