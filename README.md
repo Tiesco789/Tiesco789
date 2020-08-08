@@ -6,9 +6,9 @@
 
 <br><br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/franccesco-antonio/"><img height="60px" align="center" src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:franccesco_@hotmail.com"><img height="60px" align="center" src="https://img.shields.io/badge/-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="mailto:tiesco789@gmail.com"><img height="60px" align="center" src="https://img.shields.io/badge/-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/franccesco-antonio/"><img height="60px" align="center" src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="mailto:franccesco_@hotmail.com"><img height="60px" align="center" src="https://img.shields.io/badge/-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a target="_blank" href="mailto:tiesco789@gmail.com"><img height="60px" align="center" src="https://img.shields.io/badge/-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br><br>
