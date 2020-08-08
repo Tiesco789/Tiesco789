@@ -1,6 +1,6 @@
-<p>
+<samp>
   <h1 align="center">Franccesco Antonio</h1>
-</p>
+</samp>
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
@@ -12,23 +12,25 @@
   <tbody>
     <tr>
       <td width="25%" align="center">
-        <span>Front-end <br> :heart:</span>
+        <samp>Front-end <br> :heart:</samp>
       </td>
       <td width="25%" align="center">
-        <span>Web-Design <br> 🖥</span>
+        <samp>Web-Design <br> 🖥</samp>
       </td>
       <td width="25%" align="center">
-        <span>Games <br> 🎮</span>
+        <samp>Games <br> 🎮</samp>
       </td>
       <td width="25%" align="center">
-        <span>Rock n' Roll <br> 🤘</span>
+        <samp>Rock n' Roll <br> 🤘</samp>
       </td>
     </tr>
   </tbody>
 </table>
 <br><br>
 
-<p><h2 align="center">Tech Stack 👨🏻‍💻</h2> <br> </p>
+<br>
+<samp><h2 align="center">Tech Stack 👨🏻‍💻</h2></samp>
+<br>
 
 <table align="center">
   <tbody>
