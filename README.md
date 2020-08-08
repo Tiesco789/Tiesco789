@@ -9,16 +9,17 @@
     <table>
       <thead><h3 align="center">Sobre</h3></thead>
       <tbody>
-        <td>Knowledge: Front-end :heart: & Web-Design 🖥</td>
-        <td>Hobbies: Games 🎮 & Rock n' Roll 🤘</td>
-        <td>Fact: O foguete nunca da ré 🚀</td>
+        <td>Front-end :heart:</td>
+        <td> Web-Design 🖥</td>
+        <td>Games 🎮</td>
+        <td> Rock n' Roll 🤘</td>
       </tbody>
     </table>
   </samp>
 </p>
 
 
-<p><h3 align="center">Tech Stack :computer:</h3></p>
+<p><h3 align="center">Tech Stack 👨🏻‍💻</h3></p>
 
 <table align="center">
   <tbody>
