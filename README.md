@@ -1,8 +1,8 @@
 <h1 align="center">Franccesco Antonio</h1>
 
-<h2>👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</h2>
+<h2 align="center">👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</h2>
 
-<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
 ### About
 
@@ -10,7 +10,7 @@
 -  **Hobbies :** Games 🎮 & Rock n' Roll 🤘
 -  **Fact :** O foguete nunca da ré 🚀
 
-### Tech Stack :computer:
+<p><h2 align="center">Tech Stack :computer:</h2></p>
 
 <table align="center">
   <tbody>
