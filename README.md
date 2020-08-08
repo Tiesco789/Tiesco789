@@ -1,16 +1,25 @@
 <h1 align="center">Franccesco Antonio</h1>
 
-<h2 align="center">👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</h2>
+<p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
 ### About
 
--  **Knowledge :** Front-end :heart: | Web-Design 🖥   
--  **Hobbies :** Games 🎮 & Rock n' Roll 🤘
--  **Fact :** O foguete nunca da ré 🚀
+<p align="center">
+  <samp>
+    <table>
+      <tbody>
+        <td>Knowledge: Front-end :heart: & Web-Design 🖥</td>
+        <td>Hobbies: Games 🎮 & Rock n' Roll 🤘</td>
+        <td>Fact: O foguete nunca da ré 🚀</td>
+      </tbody>
+    </table>
+  </samp>
+</p>
 
-<p><h2 align="center">Tech Stack :computer:</h2></p>
+
+<p><h3 align="center">Tech Stack :computer:</h3></p>
 
 <table align="center">
   <tbody>
