@@ -28,7 +28,7 @@
 </table>
 <br>
 
-<samp><h2 align="center">T E C H  S T A C K 👨🏻‍💻</h2></samp>
+<samp><h2 align="center">S K I L L S 👨🏻‍💻</h2></samp>
 <br>
 
 <table align="center">
