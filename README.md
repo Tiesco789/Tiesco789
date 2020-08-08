@@ -7,8 +7,12 @@
 <br><br>
 
 <p align="center">
-  <samp> 📫 Contact me via: <a href="franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a>.</samp>
+  <samp> 📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a>.</samp>
 </p>
+
+<br><br>
+
+<h2>About Me</h2>
 <table align="center">
   <tbody>
     <tr>
