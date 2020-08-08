@@ -4,7 +4,14 @@
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/franccesco-antonio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<br><br>
+
+
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
+
+<br><br>
 
 <table align="center">
   <tbody>
@@ -68,3 +75,5 @@
     </tr>
   </tbody>
 </table>
+
+<br>
