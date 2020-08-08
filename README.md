@@ -7,7 +7,6 @@
 <p align="center">
   <samp>
     <table>
-      <thead><h3 align="center">Sobre</h3></thead>
       <tbody>
         <td>Front-end :heart:</td>
         <td> Web-Design 🖥</td>
