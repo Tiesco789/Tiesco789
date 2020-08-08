@@ -76,6 +76,6 @@
 <samp><h2 align="center"></h2></samp>
 <br>
 
-<p>
-  <img align="center" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="150"/>
+<p align="center" >
+  <img src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="150"/>
 </p>
