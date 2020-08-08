@@ -6,23 +6,11 @@
 
 ### About
 
-<ul>
-  <li style="list-style: none;">
-    <h2>Knowledge: Front-end :heart: | Web-Design 🖥</h2>
-  </li>
-  <li style="list-style: none;">
-    <h2>Hobbies: Games 🎮 & Rock n' Roll 🤘</h2>
-  </li>
-  <li style="list-style: none;">
-    <h2>Fact: O foguete nunca da ré 🚀</h2>
-  </li>
-</ul>
-
 -  **Knowledge :** Front-end :heart: | Web-Design 🖥   
 -  **Hobbies :** Games 🎮 & Rock n' Roll 🤘
 -  **Fact :** O foguete nunca da ré 🚀
 
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
