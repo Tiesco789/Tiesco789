@@ -11,6 +11,8 @@
   <a href="mailto:tiesco789@gmail.com"><img height="60px" align="center" src="https://img.shields.io/badge/-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<br><br>
+
 <table align="center">
   <tbody>
     <tr>
