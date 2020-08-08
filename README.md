@@ -85,6 +85,8 @@
 
 <b><h2 align="center">B O N F I R E &nbsp; L I T !</h2></b>
 
+<br><br>
+
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </p>
