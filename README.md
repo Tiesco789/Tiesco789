@@ -12,16 +12,16 @@
   <tbody>
     <tr>
       <td width="25%" align="center">
-        <samp>Front-end <br> :heart:</samp>
+        <samp>Front-end <br>:heart:</samp>
       </td>
       <td width="25%" align="center">
-        <samp>Web-Design <br> 🖥</samp>
+        <samp>Web-Design <br>🖥</samp>
       </td>
       <td width="25%" align="center">
-        <samp>Games <br> 🎮</samp>
+        <samp>Games <br>🎮</samp>
       </td>
       <td width="25%" align="center">
-        <samp>Rock n' Roll <br> 🤘</samp>
+        <samp>Rock n' Roll <br>🤘</samp>
       </td>
     </tr>
   </tbody>
