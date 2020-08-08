@@ -10,6 +10,8 @@
 -  **Hobbies :** Games 🎮 & Rock n' Roll 🤘
 -  **Fact :** O foguete nunca da ré 🚀
 
+<h2 align="center">Tech Stack :computer:</h2>
+
 <table align="center">
   <tbody>
     <tr valign="top">
