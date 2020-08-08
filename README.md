@@ -33,7 +33,7 @@
 </table>
 <br><br>
 
-<p><h2 align="center">Tech Stack 👨🏻‍💻</h2></p>
+<p><h2 align="center">Tech Stack 👨🏻‍💻</h2> <br><br></p>
 
 <table align="center">
   <tbody>
