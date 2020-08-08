@@ -4,11 +4,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
-### About
-
 <p align="center">
   <samp>
     <table>
+      <thead><h3 align="center">Sobre</h3></thead>
       <tbody>
         <td>Knowledge: Front-end :heart: & Web-Design 🖥</td>
         <td>Hobbies: Games 🎮 & Rock n' Roll 🤘</td>
@@ -45,7 +44,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg" />
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />
       </td>
       <td width="25%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg" />
