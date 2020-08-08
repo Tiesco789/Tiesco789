@@ -22,16 +22,16 @@
   <tbody>
     <tr>
       <td width="25%" align="center">
-        <span>Front-end :heart:</span>
+        <span>Front-end <br> :heart:</span>
       </td>
       <td width="25%" align="center">
-        <span>Web-Design 🖥</span>
+        <span>Web-Design <br> 🖥</span>
       </td>
       <td width="25%" align="center">
-        <span>Games 🎮</span>
+        <span>Games <br> 🎮</span>
       </td>
       <td width="25%" align="center">
-        <span>Rock n' Roll 🤘</span>
+        <span>Rock n' Roll <br> 🤘</span>
       </td>
     </tr>
   </tbody>
