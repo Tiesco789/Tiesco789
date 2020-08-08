@@ -26,9 +26,8 @@
     </tr>
   </tbody>
 </table>
-<br><br>
-
 <br>
+
 <samp><h2 align="center">T E C H  &nbsp  S T A C K 👨🏻‍💻</h2></samp>
 <br>
 
