@@ -69,7 +69,7 @@
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
       </td>
       <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/laravel.svg" />
+        <img height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" />
       </td>
     </tr>
   </tbody>
