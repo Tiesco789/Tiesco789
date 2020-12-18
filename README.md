@@ -1,4 +1,6 @@
 <h1 align="center">Franccesco Antonio</h1>
+<br>
+
 <p align="center">👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</p>
 <p align="center">📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a></p>
 
@@ -70,7 +72,7 @@
 <h2 align="center">Live Stats</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=radical&hide=java">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java">
 </p>
 <br>
 
