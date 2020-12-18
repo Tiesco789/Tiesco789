@@ -28,7 +28,7 @@
 </table>
 <br>
 
-<samp><h2 align="center">S K I L L S 👨🏻‍💻</h2></samp>
+<h2 align="center">S K I L L S 👨🏻‍💻</h2>
 <br>
 
 <table align="center">
@@ -73,7 +73,7 @@
 </table>
 
 <br>
-<samp><h2 align="center">L I V E <br> S T A T S</h2></samp>
+<h2 align="center">L I V E <br> S T A T S</h2>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tiesco789's Github Stats" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=radical">
