@@ -1,3 +1,6 @@
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="80px">
+</p>
 <h1 align="center"><b>Franccesco Antonio</b></h1>
 <br>
 
