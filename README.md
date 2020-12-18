@@ -71,8 +71,8 @@
 <br>
 <h2 align="center">Live Stats</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&theme=tokyonight&hide=java">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java">
 </p>
 <br>
 
