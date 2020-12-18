@@ -24,7 +24,7 @@
 </table>
 <br>
 
-<h2 align="center">Skills <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
+<h2 align="center"><b>Skills</b> <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
 <br>
 
 <table align="center">
@@ -96,3 +96,9 @@
     </tr>
   </tbody>
 </table>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" />
+</p>
