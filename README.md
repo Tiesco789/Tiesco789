@@ -1,7 +1,7 @@
-<h1 align="center">Franccesco Antonio</h1>
+<h1 align="center"><b>Franccesco Antonio</b></h1>
 <br>
 
-<p align="center">👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</p>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hi, a passionate self-taught front-end developer from Brazil 🚀.</p>
 <p align="center">📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a></p>
 
 <table align="center">
@@ -17,14 +17,14 @@
         <samp>Games <br>🎮</samp>
       </td>
       <td width="25%" align="center">
-        <samp>Rock n' Roll <br>🤘</samp>
+        <samp>Rock n' Roll <br><img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif"></samp>
       </td>
     </tr>
   </tbody>
 </table>
 <br>
 
-<h2 align="center">Skills 👨🏻‍💻</h2>
+<h2 align="center">Skills <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
 <br>
 
 <table align="center">
@@ -69,7 +69,7 @@
 </table>
 
 <br>
-<h2 align="center">Live Stats</h2>
+<h2 align="center"><b>Live Stats <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
 
 <table align="center">
   <tbody>
