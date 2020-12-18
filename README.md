@@ -1,12 +1,10 @@
-<samp align="center">
-  <h1 align="center">F R A N C C E S C O  <br>  A N T O N I O</h1>
-</samp>
+
+<h1 align="center">F R A N C C E S C O  <br>  A N T O N I O</h1>
+
 
 <p align="center"> <samp> 👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</samp></p>
 
-<p align="center">
-  <samp> 📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a>.</samp>
-</p>
+<p align="center">📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a></p>
 
 <table align="center">
   <tbody>
