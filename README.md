@@ -1,9 +1,5 @@
-
-<h1 align="center">F R A N C C E S C O  <br>  A N T O N I O</h1>
-
-
+<h1 align="center">Franccesco Antonio</h1>
 <p align="center">👋 Hi, a passionate self-taught front-end developer from Brazil 🚀.</p>
-
 <p align="center">📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a></p>
 
 <table align="center">
@@ -26,7 +22,7 @@
 </table>
 <br>
 
-<h2 align="center">S K I L L S 👨🏻‍💻</h2>
+<h2 align="center">Skills 👨🏻‍💻</h2>
 <br>
 
 <table align="center">
@@ -71,10 +67,10 @@
 </table>
 
 <br>
-<h2 align="center">L I V E <br> S T A T S</h2>
+<h2 align="center">Live Stats</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tiesco789's Github Stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=radical">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=radical&hide=java">
 </p>
 <br>
 
