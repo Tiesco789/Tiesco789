@@ -74,23 +74,25 @@
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java&layout=compact" alt="Most Languages Used">
       </td>
     </tr>
     <tr valign="top">
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiesco&theme=tokyonight&hide_border=true" alt="Wakatime" />
+    </tr>
+    <tr>
+      <td align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
       </td>
     </tr>
     <tr valign="top">
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java&layout=compact" alt="Most Languages Used" />
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiesco&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
       </td>
+    </tr>
+    <tr valign="top">
     </tr>
   </tbody>
 </table>
-
-<br>
-
-
