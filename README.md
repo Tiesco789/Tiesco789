@@ -92,7 +92,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tiesco&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Tiesco&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
       </td>
     </tr>
     <tr valign="top">
