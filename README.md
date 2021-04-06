@@ -43,7 +43,6 @@
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/webpack.svg" />
 </p>
 
 <br>
