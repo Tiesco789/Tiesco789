@@ -30,46 +30,21 @@
 <h2 align="center"><b>Skills</b> <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
 <br>
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
-      </td>
-    </tr>
-    <tr valign="top">
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/react.svg" />
-      </td>
-      <td width="25%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/sass.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/figma.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/html-5.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/css-3.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/javascript.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/php.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/laravel.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/webpack.svg" />
+</p>
 
 <br>
 <h2 align="center"><b>Live Stats <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
