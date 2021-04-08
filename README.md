@@ -27,7 +27,7 @@
 </table>
 <br>
 
-<h2 align="center"><b>Skills</b> <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
+<h2 align="center"><b>SKILLS</b> <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
 <br>
 
 <p align="center">
@@ -46,7 +46,7 @@
 </p>
 
 <br>
-<h2 align="center"><b>Live Stats <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
+<h2 align="center"><b>LIVE STATS <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
