@@ -48,18 +48,11 @@
 <br>
 <h2 align="center"><b>Live Stats <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
-      </td>
-      <td align="right">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
+  <br>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
+</div>
 
 <hr>
 
