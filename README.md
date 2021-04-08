@@ -4,7 +4,7 @@
 <h1 align="center"><b>Franccesco Antonio</b></h1>
 <br>
 
-<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hi, a passionate self-taught front-end developer from Brazil 🚀.</p>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hi, i'm a passionate self-taught front-end developer from Brazil 🚀.</p>
 <p align="center">📫 Contact me via: <a href="mailto:franccesco_@hotmail.com">E-mail</a> or <a href="https://www.linkedin.com/in/franccesco-antonio/">Linkedin</a></p>
 
 <table align="center">
