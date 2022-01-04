@@ -27,7 +27,7 @@
 </table>
 <br>
 
-<h2 align="center"><b>SKILLS</b> <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
+<h2 align="center"><b>TOOLS</b> <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" /></h2>
 <br>
 
 <p align="center">
@@ -35,8 +35,6 @@
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/css-3.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" />
-  <br>
-  <br>
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" />
@@ -44,7 +42,7 @@
 </p>
 
 <br>
-<h2 align="center"><b>LIVE STATS <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
+<h2 align="center"><b>LIVE STATS<img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
