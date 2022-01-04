@@ -14,7 +14,7 @@
         <samp>Front-end <br>:heart:</samp>
       </td>
       <td width="25%" align="center">
-        <samp>Web-Design <br>🖥</samp>
+        <samp>UI/UX <br>🖥</samp>
       </td>
       <td width="25%" align="center">
         <samp>Games <br>🎮</samp>
