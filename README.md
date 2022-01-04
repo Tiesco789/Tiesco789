@@ -33,15 +33,11 @@
 <p align="center">
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/html-5.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/css-3.svg" />
-  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/javascript.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
-  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" />
   <br>
   <br>
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" />
-  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/php.svg" />
-  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/laravel.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/git-icon.svg" />
