@@ -53,6 +53,70 @@
 
 <hr>
 
+## <b>Cursos e Projetos</b>
+<table>
+  <thead>
+    <tr>
+      <th>Curso</th>
+      <th>Descrição</th>
+      <th>Projetos</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://camo.githubusercontent.com/fad076964153428686494d191eb53e5ae42a0438e1e70ebad2305064a4821f26/68747470733a2f2f646f6974792e636f6d2e62722f6d656469612f646f6974792f706172636569726f732f32313437345f706172636569726f2e706e67" alt="Origmid" width="25%"/>
+      </td>
+      <td align="center">
+        <a href="https://origamid.com.br" alt="Origamid"><b>Origamid</b></a>
+        <p>Curso de Front-end e Web Design.</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Tiesco789/Origamid" alt="Repositório">Repositório</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" alt="Rocketseat" height="28" />
+      </td>
+      <td align="center">
+        <a href="https://www.rocketseat.com.br/" alt="Rocketseat"><b>Rocketseat</b></a>
+        <p>Plataforma completa de aprendizado contínuo em programação.</p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Tiesco789/Rocketseat" alt="Repositório">Repositório</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://www.designcircuit.co/dc/svg/dc-logo.svg" alt="Design Circuit" height="40" />
+      </td>
+      <td align="center">
+        <a href="https://www.designcircuit.co/" alt="Design Circuit"><b>Design Circuit</b></a>
+        <p>Curso focado para formar UX Designers</p>
+      </td>
+      <td>
+        -
+      </td>
+    </tr>
+    <tr>
+      <td  align="center">
+        <img src="https://uiexpert.com.br/assets/logo-ui-expert.svg" alt="UI Expert" height="28" />
+      </td>
+      <td  align="center">
+        <a href="https://uiexpert.com.br/" alt="UI Expert"><b>UI Expert</b></a>
+        <p>Curso de UI Design, passando por todos os processos e fundamentos do UI Design.</p>
+      </td>
+      <td>
+        -
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" />
 </p>
