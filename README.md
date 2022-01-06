@@ -49,9 +49,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
 </div>
 
-<hr>
-
-## <b>Cursos e Projetos</b>
+<h2>Cursos e Projetos</h2>
 <table>
   <thead>
     <tr>
