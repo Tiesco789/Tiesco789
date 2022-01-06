@@ -83,7 +83,7 @@
         <p>Plataforma completa de aprendizado contínuo em programação.</p>
       </td>
       <td align="center">
-        <a href="https://github.com/Tiesco789/Rocketseat" alt="Repositório">Repositório</a>
+        <a href="https://github.com/Tiesco789/rocketseat-ignite" alt="Repositório">Repositório</a>
       </td>
     </tr>
     <tr>
