@@ -2,6 +2,11 @@
   <img align="center" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="80px">
 </p>
 <h1 align="center"><b>Franccesco Antonio</b></h1>
+<div align="center">
+  <a href="https://wakatime.com/@62f6db84-d112-4fd8-b4c8-59649659eabb">
+    <img src="https://wakatime.com/badge/user/62f6db84-d112-4fd8-b4c8-59649659eabb.svg" alt="Total time coded since Aug 10 2020" />
+  </a>
+</div>
 <br>
 
 <p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hi, i'm a passionate self-taught front-end developer from Brazil 🚀.</p>
@@ -49,14 +54,16 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
 </div>
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Tiesco&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 <br>
 <h2 align="center">COURSES AND PROJECTS <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif"></h2>
 <table>
   <thead>
     <tr>
-      <th>Curso</th>
-      <th>Descrição</th>
-      <th>Projetos</th>
+      <th>Course</th>
+      <th>Description</th>
+      <th>Repositories</th>
     </tr>
   </thead>
   <tbody>
@@ -66,7 +73,7 @@
       </td>
       <td align="center">
         <a href="https://origamid.com.br" alt="Origamid"><b>Origamid</b></a>
-        <p>Curso de Front-end e Web Design.</p>
+        <p>Front-end e Web Design courses.</p>
       </td>
       <td align="center">
         <a href="https://github.com/Tiesco789/Origamid" alt="Repositório">Repositório</a>
@@ -78,7 +85,7 @@
       </td>
       <td align="center">
         <a href="https://www.rocketseat.com.br/" alt="Rocketseat"><b>Rocketseat</b></a>
-        <p>Plataforma completa de aprendizado contínuo em programação.</p>
+        <p>Complete platform for continuous learning in programming.</p>
       </td>
       <td align="center">
         <a href="https://github.com/Tiesco789/rocketseat-ignite" alt="Repositório">Repositório</a>
@@ -90,7 +97,7 @@
       </td>
       <td align="center">
         <a href="https://www.designcircuit.co/" alt="Design Circuit"><b>Design Circuit</b></a>
-        <p>Curso focado para formar UX Designers</p>
+        <p>Dedicated course to train UX Designers</p>
       </td>
       <td>
         -
@@ -102,7 +109,7 @@
       </td>
       <td  align="center">
         <a href="https://uiexpert.com.br/" alt="UI Expert"><b>UI Expert</b></a>
-        <p>Curso de UI Design, passando por todos os processos e fundamentos do UI Design.</p>
+        <p>UI Design course, going through all the processes and fundamentals of UI Design.</p>
       </td>
       <td>
         -
