@@ -42,14 +42,15 @@
 </p>
 
 <br>
-<h2 align="center"><b>LIVE STATS<img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
+<h2 align="center"><b>LIVE STATS <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif"></b></h2>
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
 </div>
 
-<h2 align="center">Courses and Projects <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif"></h2>
+<br>
+<h2 align="center">COURSES AND PROJECTS <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif"></h2>
 <table>
   <thead>
     <tr>
@@ -58,7 +59,6 @@
       <th>Projetos</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td align="center">
