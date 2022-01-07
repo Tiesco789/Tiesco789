@@ -52,14 +52,18 @@
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
-  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Tiesco&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Tiesco&hide_title=true&hide_border=true&langs_count=5" />
 </div>
+
+---
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+---
 
 <br>
 <h2 align="center">COURSES AND PROJECTS <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif"></h2>
@@ -109,7 +113,7 @@ No Activity tracked this Week
       </td>
     </tr>
     <tr>
-      <td  align="center">
+      <td align="center">
         <img src="https://uiexpert.com.br/assets/logo-ui-expert.svg" alt="UI Expert" height="28" />
       </td>
       <td  align="center">
