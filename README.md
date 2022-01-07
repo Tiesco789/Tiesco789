@@ -52,8 +52,11 @@
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight" alt="Tiesco789's Github Stats" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=tokyonight&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
-  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Tiesco&hide_title=true&hide_border=true&langs_count=5" />
+  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@Tiesco&hide_title=true&hide_border=true&langs_count=5" alt="Waka Time Stats"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tiesco789&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="Troféus" />
+  
 </div>
+
 
 ---
 
