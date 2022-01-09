@@ -62,7 +62,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 January, 2022 - 08 January, 2022
+
+TypeScript   1 min           █████████████████░░░░░░░░   68.27 % 
 ```
 <!--END_SECTION:waka-->
 
