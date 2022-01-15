@@ -42,6 +42,7 @@
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" />
+  <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/python.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" />
   <img width="60" height="60" margin="auto" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 </p>
