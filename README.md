@@ -63,13 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
-
-Vue.js       28 mins         ████████████▓░░░░░░░░░░░░   51.01 % 
-INI          11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-TypeScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-JSON         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
