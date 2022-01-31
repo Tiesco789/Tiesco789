@@ -63,9 +63,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
-Python   1 hr 48 mins    █████████████████████████   100.00 % 
+Python   13 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
