@@ -63,7 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 C++      41 mins         ████████████████████████░   95.84 % 
 Bash     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
