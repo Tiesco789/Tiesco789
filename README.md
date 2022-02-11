@@ -63,10 +63,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
-C++      41 mins         ████████████████████████░   95.84 % 
-Bash     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+PHP              1 hr 52 mins    ███████████▒░░░░░░░░░░░░░   44.87 % 
+Blade Template   44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 % 
+C++              33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+TypeScript       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+INI              17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
 <!--END_SECTION:waka-->
 
