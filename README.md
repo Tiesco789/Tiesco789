@@ -63,13 +63,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
-PHP              1 hr 52 mins    ███████████▒░░░░░░░░░░░░░   44.87 % 
-Blade Template   44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.64 % 
-C++              33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-TypeScript       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-INI              17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+PHP              1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.29 % 
+JavaScript       44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Blade Template   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+HTML             36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+TypeScript       29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 <!--END_SECTION:waka-->
 
