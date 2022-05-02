@@ -64,11 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2022 - To: 30 April 2022
+From: 24 April 2022 - To: 01 May 2022
 
-TypeScript   1 hr 56 mins    ███████████████▒░░░░░░░░░   61.93 %
-HTML         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Other        23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+TypeScript   1 hr 56 mins    █████████████░░░░░░░░░░░░   51.50 %
+HTML         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Dart         34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Other        23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
 ```
 
 <!--END_SECTION:waka-->
