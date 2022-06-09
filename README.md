@@ -26,7 +26,7 @@
   <li>🎸 In my freetime, I play eletric guitar</li>
 </ul>
 
-### **Actually studying 🤓:**
+### **I'm Work with this tech:**
 
 <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/javascript.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/php.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/laravel.svg" /><img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/postgresql.svg" /> 
 
