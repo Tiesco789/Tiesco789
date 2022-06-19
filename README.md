@@ -49,14 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
-
-Markdown     5 mins          ██████████████▒░░░░░░░░░░   57.28 %
-JavaScript   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.52 %
-INI          1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-HTML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
