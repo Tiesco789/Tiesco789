@@ -49,12 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 July 2022 - To: 29 July 2022
-
-Bash         21 mins         ██████████████████████▓░░   90.95 %
-C++          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
