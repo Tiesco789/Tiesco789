@@ -22,7 +22,6 @@
 <h3><b>Talking about Personal Stuffs:</b></h3>
 <ul>
   <li>🎨 Front-End | UI/UX Designer</li>
-  <li>💻 I’m currently working on <a href="https://trackcash.com.br/">Trackcash</a></li>
   <li>🎸 In my freetime, I play eletric guitar</li>
 </ul>
 
