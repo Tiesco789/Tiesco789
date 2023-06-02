@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center"><b>FRANCCESCO ANTONIO (Him/He)</b> <img src="https://wakatime.com/badge/user/62f6db84-d112-4fd8-b4c8-59649659eabb.svg" alt="Total time coded since Aug 10 2020" /></h1>
+<h1 align="center"><b>FRANCCESCO ANTONIO (Him/He)</b>
 
 <br>
 
@@ -28,28 +28,3 @@
 ### **I'm Work with this tech:**
 
 <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/css-3.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/javascript.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" />
-
-<br>
-<br>
-
-## **LIVE STATS 💾**
-
-<br>
-
-<p align="center">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api?username=Tiesco789&show_icons=true&hide_border=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave" alt="Tiesco789's Github Stats" /> <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&show_icons=true&hide_border=true&theme=synthwave&hide=java,objective-c&layout=compact" alt="Most Languages Used" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tiesco789&theme=tokyonight&no-frame=true&row=1&margin-w=20&no-bg=true" alt="Troféus" />
-<p>
-
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
