@@ -22,9 +22,13 @@
 <h3><b>Talking about Personal Stuffs:</b></h3>
 <ul>
   <li>🎨 Front-End | UI/UX Designer</li>
-  <li>🎸 In my freetime, I play eletric guitar</li>
+  <li>🎸 In my freetime, I play eletric guitar or draw</li>
 </ul>
 
 ### **I'm Work with this tech:**
 
-<img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/css-3.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/javascript.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/laravel.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/php.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" />
+<img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/figma.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/html-5.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/css-3.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/javascript.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" /> <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" />
+
+---
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c0fe93fcdcf9c5d50e3742?variant=dark)](https://roadmap.sh)
