@@ -33,7 +33,7 @@
 
 <h3  align="center"><b>I'm Work with this tech: </b></h3>
 
-<div align="center">
+<p style="display: inline-block;" align="center">
 <kbd>
   <kbd>Design: </kbd>
   <br>
@@ -72,4 +72,4 @@
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/mysql.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/postgresql.svg" />
 </kbd>
-</div>
+</p>
