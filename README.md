@@ -63,7 +63,8 @@
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" />
 </kbd>
   
-<br />  
+<br />
+<br />
 
 <kbd>
   <kbd>Interested in: </kbd>
