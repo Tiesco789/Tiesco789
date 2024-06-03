@@ -49,7 +49,6 @@
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/javascript.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/java.svg" />
-  <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/python.svg" />
 </kbd>
 <kbd>
   <kbd>Frameworks: </kbd>
@@ -58,9 +57,6 @@
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/bootstrap.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/sass.svg" />
-  <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/angular-icon.svg" />
-  <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/vue.svg" />
-  <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/react.svg" />
 </kbd>
   
 <br />
@@ -70,8 +66,6 @@
   <kbd>Interested in: </kbd>
   <br>
   <br>
-  <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/nuxt-icon.svg" />
-  <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/docker-icon.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/mysql.svg" />
   <img width="44" height="44" margin="auto" src="https://cdn.svgporn.com/logos/postgresql.svg" />
