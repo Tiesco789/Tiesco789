@@ -1,23 +1,23 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
 <h3 align="left">
-  Opa, tudo bem? Me chamo Franccesco Bordon 🫡
+  Hi, I am Franccesco Bordon 🫡
 </h1>
 
 <p align="left">
-  Sou Front-End Developer (HTML, CSS & Javascript), não tenho um framework preferido, gosto de todos, porém no momento estou estudando PHP & Laravel e tenho gostado bastante principalmente para criar aplicações mais robustas.
+  I'm a Front-End Developer (HTML, CSS & Javascript), I don't have a favorite framework, I like them all, but at the moment I'm studying PHP & Laravel and I've really enjoyed it, especially for creating more powerful applications.
 </p>
 
 <p align="left"> 
-  Linguagens: <strong>HTML, CSS, Javascript, PHP, Laravel, Python, MySQL</strong>
+  Languages: <strong>HTML, CSS, Javascript, PHP, Laravel, Python, MySQL</strong>
 </p>
 
 <p align="left">
-  Ferramentas: <strong>FIGMA e VS Code</strong>
+  Tools: <strong>FIGMA e VS Code</strong>
 </p>
 
 <div>
-  <h3>Contato: </h3>
+  <h3>You can reach me by: </h3>
   <a href="https://www.linkedin.com/in/franccesco-bordon" target="_blank">
     <img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/>
   </a>
@@ -43,7 +43,7 @@
 <br />
 
 <p>
-  <i>Caso você goste do meu trabalho, considere pagar um cafezinho ☕</i>
+  <i>If you like my work, consider buy me a coffee ☕</i>
 </p>
 <a href="https://www.buymeacoffee.com/tiesco" target="_blank">
   <img 
