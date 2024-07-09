@@ -16,8 +16,8 @@
   Ferramentas: <strong>FIGMA e VS Code</strong>
 </p>
 
-<span>Contato: </span>
 <div>
+  <h3>Contato: </h3>
   <a href="https://www.linkedin.com/in/franccesco-bordon" target="_blank">
     <img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/>
   </a>
@@ -28,6 +28,16 @@
   <a href="https://wa.me/5547999693071" target="_blank">
     <img src="https://img.icons8.com/dusk/40/000000/whatsapp.png"/>
   </a>
+</div>
+
+
+<div>
+  <h3>Hobbies:</h3>
+  <img src="https://img.icons8.com/dusk/40/000000/garageband.png"/>
+  <img src="https://img.icons8.com/dusk/40/000000/spotify.png"/>
+  <img src="https://img.icons8.com/dusk/40/000000/steam.png"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/hollow-knight.png"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/league-of-legends.png"/> 
 </div>
 
 <br />
