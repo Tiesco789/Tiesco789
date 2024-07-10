@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" min-width="300px" max-width="300px" width="300px" align="right">
-
-<h3 align="left">
+<h2 align="left">
   Hi, I am Franccesco Bordon 🫡
 </h1>
 
@@ -9,12 +7,10 @@
 </p>
 
 <p align="left"> 
-  Languages: <strong>HTML, CSS, Javascript, PHP, Laravel, Python, MySQL</strong>
+  Technologies: <strong>HTML, CSS, Javascript, PHP, Laravel, Python, MySQL</strong>
 </p>
 
-<p align="left">
-  Tools: <strong>FIGMA e VS Code</strong>
-</p>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" min-width="250px" max-width="250px" width="250px" align="right">
 
 <div>
   <h3>You can reach me by: </h3>
@@ -30,26 +26,14 @@
   </a>
 </div>
 
+<hr />
 
 <div>
   <h3>Hobbies:</h3>
+  <img src="https://img.icons8.com/dusk/40/000000/waze.png"/>
   <img src="https://img.icons8.com/dusk/40/000000/garageband.png"/>
   <img src="https://img.icons8.com/dusk/40/000000/spotify.png"/>
   <img src="https://img.icons8.com/dusk/40/000000/steam.png"/> 
   <img src="https://img.icons8.com/dusk/40/000000/hollow-knight.png"/> 
   <img src="https://img.icons8.com/dusk/40/000000/league-of-legends.png"/> 
 </div>
-
-<br />
-
-<p>
-  <i>If you like my work, consider buy me a coffee ☕</i>
-</p>
-<a href="https://www.buymeacoffee.com/tiesco" target="_blank">
-  <img 
-    src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
-    alt="Buy Me A Coffee" 
-    style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
-  >
-</a>
-
