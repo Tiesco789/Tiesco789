@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-  Technologies: <strong>HTML, CSS, Javascript, PHP, Laravel, Python, MySQL</strong>
+  Technologies: <strong>HTML, CSS, Javascript (Angular/VueJS), PHP, Laravel, PostgreSQL</strong>
 </p>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" min-width="250px" max-width="250px" width="250px" align="right">
