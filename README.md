@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  I'm a Front-End Developer (HTML, CSS & Javascript), I don't have a favorite framework, I like them all, but at the moment I'm studying PHP/Laravel & Angular and I've really enjoyed it, especially for creating more powerful applications.
+  I'm a Front-End Developer (HTML, CSS & Javascript), I don't have a favorite framework, I like them all, but at the moment I'm studying PHP/Laravel & VueJS and I've really enjoyed it, especially for creating more powerful applications.
 </p>
 
 <p align="left"> 
