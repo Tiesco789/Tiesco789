@@ -30,10 +30,47 @@
 
 <div>
   <h3>Hobbies:</h3>
-  <img src="https://img.icons8.com/dusk/40/000000/waze.png"/>
-  <img src="https://img.icons8.com/dusk/40/000000/garageband.png"/>
-  <img src="https://img.icons8.com/dusk/40/000000/spotify.png"/>
-  <img src="https://img.icons8.com/dusk/40/000000/steam.png"/> 
-  <img src="https://img.icons8.com/dusk/40/000000/hollow-knight.png"/> 
-  <img src="https://img.icons8.com/dusk/40/000000/league-of-legends.png"/> 
+  <p>
+    <img src="https://img.icons8.com/dusk/40/000000/waze.png" />
+    <span>Travel ✈️</span>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/dusk/40/000000/garageband.png"/>
+    <span>Play Guitar (trying to find a band) 🎸</span>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/dusk/40/000000/spotify.png"/>
+    <span>Listen to music 🎶</span>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/dusk/40/000000/steam.png"/> 
+    <span>Play games (trying to get all achievements in some games) 🎮</span>
+  </p>
+</div>
+
+<hr />
+
+<div>
+  <h4>Languages & Tools</h4>
+  <p align="left">
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"> </code>
+    <br />
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> </code>
+    <br />
+    <br />
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"> </code>
+    <code> <img height="10%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> </code>
+    <br />
+  </p>
 </div>
