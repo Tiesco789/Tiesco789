@@ -84,7 +84,7 @@
   </p>
 
   <p>
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="360" />
   </p>
    
   <p>
