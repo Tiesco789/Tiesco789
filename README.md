@@ -84,7 +84,7 @@
   </p>
 
   <p>
-    ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
   </p>
    
   <p>
