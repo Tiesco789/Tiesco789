@@ -82,6 +82,10 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&layout=compact&theme=chartreuse-dark"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiesco789&theme=chartreuse-dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   </p>
+
+  <p>
+    ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  </p>
    
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=Tiesco789&row=1&theme=dracula"/>
