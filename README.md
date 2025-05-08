@@ -57,7 +57,7 @@
     <tr> 
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&hide_border=true&layout=compact&theme=tokyonight&hide_progress=true" height="200" /></td>
       <td align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiesco789&theme=catppuccin-mocha&hide_border=true&locale=en_US&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiesco789&theme=tokyonight&hide_border=true&locale=en_US&exclude_days=Sun%2CSat" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
