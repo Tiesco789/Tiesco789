@@ -25,7 +25,6 @@
 <hr />
 
 <!-- <img width="25%" align="right" alt="Github" src="https://tenor.com/view/our-office-meeting-confused-confused-monkey-lost-dont-know-where-to-start-gif-14050021.gif" /> -->
-<img width="25%" align="right" alt="Github" src="https://tenor.com/view/our-office-meeting-confused-confused-monkey-lost-dont-know-where-to-start-gif-14050021.gif" />
 
 <div>
   <h4>Web & Design</h4>
