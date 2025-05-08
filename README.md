@@ -6,8 +6,6 @@
   I'm a Front-End Developer (HTML, CSS & Javascript), I don't have a favorite framework, I like them all, but at the moment I'm studying Angular and I've really enjoyed it, especially for creating more powerful applications.
 </p>
 
-
-
 <div>
   <h3>You can reach me by: </h3>
   <a href="https://www.linkedin.com/in/franccesco-bordon" target="_blank">
@@ -25,19 +23,20 @@
 <hr />
 
 <!-- <img width="25%" align="right" alt="Github" src="https://tenor.com/view/our-office-meeting-confused-confused-monkey-lost-dont-know-where-to-start-gif-14050021.gif" /> -->
+<img width="25%" align="right" alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRlMXF3M3Z1dXlyZ250Zm10cHYwcGw3aGx0eWdqOGR3eHkwOGdmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" />
 
 <div>
-  <h4>Web & Design</h4>
+  <h3>Web & Design</h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,photoshop,illustrator,figma&theme=dark" />
   </p>
 
-  <h4>Languages & Frameworks</h4>
+  <h3>Languages & Frameworks</h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=php,python,java,angular,laravel,sass,tailwind&theme=dark" />
   </p>
 
-  <h4>Tools</h4>
+  <h3>Tools</h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=git,linux,postgres,mysql,pnpm,notion,neovim&perline=8&theme=dark" />
   </p>
@@ -46,9 +45,9 @@
 <hr />
 
 <div>
-  <p>
+  <h3>
     <i><b>GitHub Stats</b></i>
-  </p>
+  </h3>
 
   <table>
     <tr>
@@ -69,6 +68,10 @@
     </tr>
   </table>
 
-  ### Spotify
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12155325953&unique={true|1|on|yes})
+  <div>
+    <h3><i><b>Spotify songs</b></i></h3>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12155325953&unique={true|1|on|yes}" />
+    <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdjdml2bnNvYmd4NGFqZ3d4eXp4ZGY5ZTY0a3F0aTRmdTMwbTFjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0PahT093UPe/giphy.gif" />
+  </div>
 </div>
+
