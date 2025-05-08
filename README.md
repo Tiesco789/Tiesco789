@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg"/></td>
+      <td colspan="2" align="center"><img src="./profile-3d-contrib/profile-night-view.svg"/></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=Tiesco789&row=1&theme=tokyonight"/></td>
