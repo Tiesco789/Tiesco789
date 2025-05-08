@@ -68,6 +68,8 @@
     </tr>
   </table>
 
+  <hr />
+
   <div>
     <h3><i><b>Spotify songs</b></i></h3>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12155325953&unique={true|1|on|yes}" />
