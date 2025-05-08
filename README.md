@@ -1,6 +1,6 @@
-<h2 align="left">
-  Hi, I am Franccesco Bordon 🫡
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Franccesco+Bordon+%F0%9F%AB%A1;Frontend+and+UX%2FUI%2FWeb+Designer)](https://git.io/typing-svg" />
+</p>
 
 <p align="left">
   I'm a passionate Front-End Developer with a strong foundation in HTML, CSS, and JavaScript. While I enjoy working with different frameworks, I'm currently diving deeper into Angular — and loving the structure and scalability it brings to building powerful web applications. I’m always curious, always learning, and always striving to write clean, efficient, and user-focused code.
@@ -28,17 +28,17 @@
 <div>
   <h3>Web & Design</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,photoshop,illustrator,figma&theme=dark" />
+    <code><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,photoshop,illustrator,figma&theme=dark" /></code>
   </p>
 
   <h3>Languages & Frameworks</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=php,python,java,angular,laravel,sass,tailwind&theme=dark" />
+    <code><img src="https://skillicons.dev/icons?i=php,python,java,angular,laravel,sass,tailwind&theme=dark" /></code>
   </p>
 
   <h3>Tools</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,linux,postgres,mysql,pnpm,notion,neovim&perline=8&theme=dark" />
+    <code><img src="https://skillicons.dev/icons?i=git,linux,postgres,mysql,pnpm,notion,neovim&perline=8&theme=dark" /></code>
   </p>
 </div>
 
@@ -57,7 +57,7 @@
     <tr> 
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&hide_border=true&layout=compact&theme=tokyonight&hide_progress=true" height="200" /></td>
       <td align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiesco789&theme=tokyonight&hide_border=true&locale=en_US&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiesco789&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
