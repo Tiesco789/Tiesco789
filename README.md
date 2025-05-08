@@ -25,6 +25,7 @@
 <hr />
 
 <!-- <img width="25%" align="right" alt="Github" src="https://tenor.com/view/our-office-meeting-confused-confused-monkey-lost-dont-know-where-to-start-gif-14050021.gif" /> -->
+<img width="25%" align="right" alt="Github" src="https://tenor.com/view/our-office-meeting-confused-confused-monkey-lost-dont-know-where-to-start-gif-14050021.gif" />
 
 <div>
   <h4>Web & Design</h4>
@@ -56,8 +57,10 @@
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiesco789&theme=tokyonight" /></td>
     </tr>
     <tr> 
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&layout=compact&theme=tokyonight" height="200" /></td>
-      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiesco789&theme=tokyonight&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiesco789&hide_border=true&layout=compact&theme=tokyonight&hide_progress=true" height="200" /></td>
+      <td align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiesco789&theme=tokyonight&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+      </td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="./profile-3d-contrib/profile-night-rainbow.svg"/></td>
@@ -67,4 +70,6 @@
     </tr>
   </table>
 
+  ### Spotify
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12155325953&unique={true|1|on|yes})
 </div>
