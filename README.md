@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  I'm a Front-End Developer (HTML, CSS & Javascript), I don't have a favorite framework, I like them all, but at the moment I'm studying Angular and I've really enjoyed it, especially for creating more powerful applications.
+  I'm a passionate Front-End Developer with a strong foundation in HTML, CSS, and JavaScript. While I enjoy working with different frameworks, I'm currently diving deeper into Angular — and loving the structure and scalability it brings to building powerful web applications. I’m always curious, always learning, and always striving to write clean, efficient, and user-focused code.
 </p>
 
 <div>
