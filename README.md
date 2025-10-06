@@ -33,7 +33,7 @@
 
   <h3>Languages & Frameworks</h3>
   <p align="left">
-    <code><img src="https://skillicons.dev/icons?i=php,java,angular,laravel,sass,tailwind&theme=dark" /></code>
+    <code><img src="https://skillicons.dev/icons?i=php,laravel,angular,sass,tailwind&theme=dark" /></code>
   </p>
 
   <h3>Tools</h3>
