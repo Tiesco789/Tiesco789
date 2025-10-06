@@ -28,17 +28,17 @@
 <div>
   <h3>Web & Design</h3>
   <p align="left">
-    <code><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,photoshop,illustrator,figma&theme=dark" /></code>
+    <code><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,figma&theme=dark" /></code>
   </p>
 
   <h3>Languages & Frameworks</h3>
   <p align="left">
-    <code><img src="https://skillicons.dev/icons?i=php,python,java,angular,laravel,sass,tailwind&theme=dark" /></code>
+    <code><img src="https://skillicons.dev/icons?i=php,java,angular,laravel,sass,tailwind&theme=dark" /></code>
   </p>
 
   <h3>Tools</h3>
   <p align="left">
-    <code><img src="https://skillicons.dev/icons?i=git,linux,postgres,mysql,pnpm,notion,neovim&perline=8&theme=dark" /></code>
+    <code><img src="https://skillicons.dev/icons?i=git,linux,postgres,mysql,pnpm&perline=8&theme=dark" /></code>
   </p>
 </div>
 
