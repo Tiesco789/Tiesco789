@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  I'm a passionate Front-End Developer with a strong foundation in HTML, CSS, and JavaScript. While I enjoy working with different frameworks, I'm currently diving deeper into Angular — and loving the structure and scalability it brings to building powerful web applications. I’m always curious, always learning, and always striving to write clean, efficient, and user-focused code.
+  I'm a passionate Front-End Developer with a strong foundation in HTML, CSS, and JavaScript. While I enjoy working with different frameworks, I'm currently diving deeper into C++ — and loving the structure and scalability it brings to building powerful web applications. I’m always curious, always learning, and always striving to write clean, efficient, and user-focused code.
 </p>
 
 <div>
@@ -33,7 +33,7 @@
 
   <h3>Languages & Frameworks</h3>
   <p align="left">
-    <code><img src="https://skillicons.dev/icons?i=php,laravel,angular,sass,tailwind&theme=dark" /></code>
+    <code><img src="https://skillicons.dev/icons?i=php,laravel,cpp,sass,tailwind&theme=dark" /></code>
   </p>
 
   <h3>Tools</h3>
