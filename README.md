@@ -22,8 +22,8 @@
 
 <hr />
 
-<!-- <img width="25%" align="right" alt="Github" src="https://tenor.com/view/our-office-meeting-confused-confused-monkey-lost-dont-know-where-to-start-gif-14050021.gif" />  -->
-<img width="35%" align="right" alt="Github" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmbmZiaHBidXNmdGMxN2NpaXZsbXJpNGtyN200dzllNjJoaTZjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif" />
+<img width="25%" align="right" alt="Github" src="https://tenor.com/view/our-office-meeting-confused-confused-monkey-lost-dont-know-where-to-start-gif-14050021.gif" />
+<!-- <img width="35%" align="right" alt="Github" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZmbmZiaHBidXNmdGMxN2NpaXZsbXJpNGtyN200dzllNjJoaTZjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif" /> -->
 
 <div>
   <h3>Web & Design</h3>
